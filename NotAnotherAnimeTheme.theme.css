@@ -7,7 +7,7 @@
 * @Source https://github.com/puckzxz/NotAnotherAnimeTheme
 * @website https://betterdiscord.app/theme/NotAnotherAnimeTheme
 */
-@import url("https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css");
+@import url("https://raw.githubusercontent.com/puckzxz/NotAnotherAnimeTheme/3e6c589700d9933169e955331147a009a7244d4f/css/v3/naat.v3.css);
 :root {
 --main-theme-color: #43b581;
 --theme-transparency: #000000b7;
