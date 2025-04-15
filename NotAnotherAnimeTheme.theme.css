@@ -304,7 +304,7 @@ div[class*='subtitleContainer_'] div[class*='children__']{
   margin-left: 10px;
 }
 
-.tutorialContainer__1f388:first-child {
+.tutorialContainer__1f388 > .listItem__650eb {
   margin-left: 0px !important;
 }
 
