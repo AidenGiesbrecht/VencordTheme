@@ -14,7 +14,7 @@
 	--primary-630: var(--background-secondary);
 	--background-secondary: transparent;
 	--background-secondary-alt: hsla(220, calc(var(--saturation-factor, 1) * 7%), 17%), 0.2;
-	--background-tertiary: transparent);
+	--background-tertiary: transparent;
 	--background-accent: hsl(217, calc(var(--saturation-factor, 1) * 8%), 34%);
 	--background-floating: #18191c;
 	--background-modifier-hover: --theme-transparency;
