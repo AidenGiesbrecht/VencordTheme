@@ -15,6 +15,18 @@
 @import url("https://milbits.github.io/oldcord/src/components/redesign.css");
 @import url("https://raw.githubusercontent.com/AidenGiesbrecht/VencordTheme/refs/heads/main/vars.css");
 
+/* Hides Store and Shop button */
+[href="/store"],
+[href='/shop'] {
+    display: none;
+}
+
+/* Hide Nitro Gift button */
+button[aria-label="Send a gift"] {
+    display: none;
+}
+
+
 div[class*='topic__'],
 div[class*='nicknames__'],
 div[class*='subtitleContainer_'] div[class*='children__']{
