@@ -15,12 +15,6 @@
 @import url("https://milbits.github.io/oldcord/src/components/redesign.css");
 @import url("https://raw.githubusercontent.com/AidenGiesbrecht/VencordTheme/refs/heads/main/vars.css");
 
-/* Hides Store and Shop button */
-[href="/store"],
-[href='/shop'] {
-    display: none;
-}
-
 /* Hide Nitro Gift button */
 button[aria-label="Send a gift"] {
     display: none;
@@ -1394,6 +1388,12 @@ html {
 --reaction-emoji-border-color: 1px solid transparent;
 --reaction-emoji-hover-background-color: #ffffff1a;
 --reaction-emoji-hover-border-color: #ffffff33;
+}
+[class^="channel_"]:has([href="/store"]) {
+  display: none;
+}
+[class^="channel_"]:has([href="/shop"]) {
+  display: none;
 }
 [class^="footer_"]:has([data-list-item-id^="guildsnav_"]) {
   display: none;
