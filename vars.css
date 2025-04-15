@@ -12,8 +12,8 @@
 	--modal-background: var(--background-primary);
 	--primary-600: var(--background-primary);
 	--primary-630: var(--background-secondary);
-	--background-secondary: hsl(223, calc(var(--saturation-factor, 1) * 7%), 20%);
-	--background-secondary-alt: hsl(220, calc(var(--saturation-factor, 1) * 7%), 17%);
+	--background-secondary: hsla(223, calc(var(--saturation-factor, 1) * 7%), 20%, 0.2);
+	--background-secondary-alt: hsla(220, calc(var(--saturation-factor, 1) * 7%), 17%), 0.2;
 	--background-tertiary: hsl(216, calc(var(--saturation-factor, 1) * 7%), 14%);
 	--background-accent: hsl(217, calc(var(--saturation-factor, 1) * 8%), 34%);
 	--background-floating: #18191c;
