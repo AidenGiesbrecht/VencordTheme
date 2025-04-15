@@ -21,16 +21,6 @@ div[class*='subtitleContainer_'] div[class*='children__']{
   width: 0;
 }
 
-/* fix forum list mode */
-div[class*='list_f369db'][class*='auto__99f8c']{
-  position: absolute;
-  height: 100%;
-}
-
-/* fix VC sizing */
-.tileWrapper__6981d{
-  position: absolute;
-}
 .appMount__51fd7 {
   background-image: var(--theme-background-image) !important;
   background-size: cover !important;
@@ -1334,7 +1324,6 @@ html {
 }
 :root {
 --main-theme-color: #43b581;
---bg-base-tertiary: #000000b7;
 --theme-transparency: #000000b7;
 --theme-background-image: url('https://i.imgur.com/oUlVA6e.png');
 --home-icon-image: url('https://i.imgur.com/70lI8Z9.png');
