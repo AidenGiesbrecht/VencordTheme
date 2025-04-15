@@ -37,7 +37,7 @@ div[class*='list_f369db'][class*='auto__99f8c']{
 }
 
 .app__160d8 {
-  background-color: transparent;
+  background-color: transparent !important;
 }
 
 .bg__960e4 {
@@ -56,7 +56,7 @@ div[class*='list_f369db'][class*='auto__99f8c']{
   .listItemWrapper-KhRmzM
   .wrapper__8436d
   .childWrapper_a6ce15 {
-  background-color: transparent;
+  background-color: transparent !important;
 }
 
 .homeIcon-tEMBK1 {
@@ -72,11 +72,11 @@ div[class*='list_f369db'][class*='auto__99f8c']{
 }
 
 .titleBar__421ed {
-  background-color: transparent;
+  background-color: transparent !important;
 }
 
 .app__160d8 {
-  background-color: transparent;
+  background-color: transparent !important;
 }
 
 .bg__960e4 {
@@ -85,41 +85,41 @@ div[class*='list_f369db'][class*='auto__99f8c']{
 
 .wrapper_ef3116,
 .scroller_ef3116 {
-  background-color: transparent;
+  background-color: transparent !important;
 }
 
 /* FRIENDS SIDEBAR */
 .sidebar_c48ade {
-  background: transparent;
+  background: transparent !important;
 }
 
 .privateChannels__35e86 {
-  background-color: transparent;
+  background-color: transparent !important;
 }
 
 .scroller__99e7c {
-  background-color: transparent;
+  background-color: transparent !important;
 }
 
 .searchBar__35e86 .searchBarComponent__35e86 {
-  background-color: transparent;
+  background-color: transparent !important;
 }
 
 /* USER INFO */
 .panels_c48ade {
-  background-color: transparent;
+  background-color: transparent !important;
 }
 
 .theme-dark .container__133bf {
-  background-color: transparent;
+  background-color: transparent !important;
 }
 
 .container__9293f.themed__9293f {
-  background: transparent;
+  background: transparent !important;
 }
 
 .nowPlayingColumn__133bf {
-  background: transparent;
+  background: transparent !important;
 }
 
 .headerNormal-1l1Znk {
@@ -127,17 +127,17 @@ div[class*='list_f369db'][class*='auto__99f8c']{
 }
 
 .headerTop-2y3V6H {
-  background-color: transparent;
+  background-color: transparent !important;
   border-bottom: none;
 }
 
 .avatar-22FtUu {
   border: none;
-  background-color: transparent;
+  background-color: transparent !important;
 }
 
 .input_df4dd0 {
-  background-color: transparent;
+  background-color: transparent !important;
 }
 
 .avatarHint-1E3LMl {
@@ -147,46 +147,46 @@ div[class*='list_f369db'][class*='auto__99f8c']{
 
 /* CHAT SIDER */
 .container__2637a {
-  background-color: transparent;
+  background-color: transparent !important;
 }
 
 /* CHAT BODY */
 .chat_f75fb0 {
-  background: transparent;
+  background: transparent !important;
 }
 
 .chat_f75fb0 {
-  background: transparent;
+  background: transparent !important;
 }
 
 /* CHAT MEMBERS */
 .members_c8ffbb,
 .members_c8ffbb > div {
-  background-color: transparent;
+  background-color: transparent !important;
 }
 
 .chatContent_f75fb0 {
-  background: transparent;
+  background: transparent !important;
 }
 
 .container_c8ffbb {
-  background: transparent;
+  background: transparent !important;
 }
 
 .members_c8ffbb {
-  background: transparent;
+  background: transparent !important;
 }
 
 .member_c8ffbb {
-  background: transparent;
+  background: transparent !important;
 }
 
 .theme-dark .container__37e49 {
-  background: transparent;
+  background: transparent !important;
 }
 
 .container_e131a9 {
-  background: transparent;
+  background: transparent !important;
 }
 
 .button_e131a9.buttonColor_e131a9,
@@ -200,12 +200,12 @@ div[class*='list_f369db'][class*='auto__99f8c']{
 }
 
 .channelTextArea_f75fb0 {
-  background: transparent;
+  background: transparent !important;
 }
 
 /* CHAT INPUT */
 .channelTextArea_f75fb0 {
-  background-color: transparent;
+  background-color: transparent !important;
 }
 
 .scrollableContainer__74017 {
@@ -221,42 +221,42 @@ div[class*='list_f369db'][class*='auto__99f8c']{
 }
 
 .theme-dark .form_f75fb0:before {
-  background: transparent;
+  background: transparent !important;
 }
 
 /* SETTINGS */
 .layer__960e4 {
-  background-color: transparent;
+  background-color: transparent !important;
 }
 
 .standardSidebarView__23e6b {
-  background-color: transparent;
+  background-color: transparent !important;
 }
 
 .sidebarRegionScroller__23e6b {
-  background-color: transparent;
+  background-color: transparent !important;
 }
 
 .contentRegion__23e6b {
-  background-color: transparent;
+  background-color: transparent !important;
 }
 
 .contentRegionScroller__23e6b {
-  background-color: transparent;
+  background-color: transparent !important;
 }
 
 /* SETTINGS - PROFILE */
 .background__1fed1 {
-  background-color: transparent;
+  background-color: transparent !important;
 }
 
 .fieldList__1fed1 {
-  background-color: transparent;
+  background-color: transparent !important;
 }
 
 /* CHAT SCROLLER */
 .auto_d125d2::-webkit-scrollbar-track {
-  background-color: transparent;
+  background-color: transparent !important;
 }
 
 /* SCROLL THUMB */
@@ -273,12 +273,12 @@ div[class*='list_f369db'][class*='auto__99f8c']{
 /* DAY CONTAINER */
 .content__908e2 {
   color: var(--main-theme-color);
-  background: transparent;
+  background: transparent !important;
 }
 
 /* ANNOYANCES */
 .theme-dark .children__9293f:after {
-  background: transparent;
+  background: transparent !important;
 }
 
 .tree-3tCaw8 {
