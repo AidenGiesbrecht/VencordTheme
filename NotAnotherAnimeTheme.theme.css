@@ -304,9 +304,8 @@ div[class*='subtitleContainer_'] div[class*='children__']{
   margin-left: 10px;
 }
 
-.listItem-650eb {
-  width: auto;
-  margin-left: 0px;
+[class^="listItem_650eb"]:has([class^="pill__1f388 wrapper__58105"]) {
+  margin-left: 0px !important;
 }
 
 .wrapper_ef3116 .scroller_ef3116 > div.listItem-GuPuDH:nth-child(1) {
