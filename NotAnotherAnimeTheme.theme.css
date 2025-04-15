@@ -13,7 +13,7 @@
 @import url("https://milbits.github.io/oldcord/src/components/other.css");
 @import url("https://milbits.github.io/oldcord/src/components/profile.css");
 @import url("https://milbits.github.io/oldcord/src/components/redesign.css");
-/*@import url("https://raw.githubusercontent.com/AidenGiesbrecht/VencordTheme/refs/heads/main/vars.css");*/
+@import url("https://raw.githubusercontent.com/AidenGiesbrecht/VencordTheme/refs/heads/main/vars.css");
 
 div[class*='topic__'],
 div[class*='nicknames__'],
