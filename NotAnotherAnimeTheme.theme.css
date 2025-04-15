@@ -304,7 +304,7 @@ div[class*='subtitleContainer_'] div[class*='children__']{
   margin-left: 10px;
 }
 
-.listItem-GuPuDH {
+.listItem-650eb {
   width: auto;
   margin-left: 0px;
 }
@@ -1400,3 +1400,5 @@ html {
 .bar_c38106 {
     background: #000000b7;
 }
+[class^="tutorialContainer_"]:has([list-item-id^="guildsnav_"]) {
+  display: none;
