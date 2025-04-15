@@ -1398,3 +1398,9 @@ html {
 [class^="footer_"]:has([data-list-item-id^="guildsnav_"]) {
   display: none;
 }
+[class^="listItem"]:has([data-list-item-id^="guildsnav_"]) {
+  display: none;
+}
+.listItem__650eb {
+    width: 0px;
+}
