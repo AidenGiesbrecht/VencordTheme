@@ -17,10 +17,10 @@
 	--background-tertiary: hsl(216, calc(var(--saturation-factor, 1) * 7%), 14%);
 	--background-accent: hsl(217, calc(var(--saturation-factor, 1) * 8%), 34%);
 	--background-floating: #18191c;
-	--background-modifier-hover: #4f545c29;
-	--background-modifier-active: #4f545c3d;
-	--background-modifier-selected: #4f545c52;
-	--background-modifier-accent: #ffffff0f;
+	--background-modifier-hover: --theme-transparency;
+	--background-modifier-active: --theme-transparency;
+	--background-modifier-selected: --theme-transparency;
+	--background-modifier-accent: --theme-transparency;
 	--background-mentioned: hsla(38, calc(var(--saturation-factor, 1) * 96%), 54%, 0.051);
 	--background-mentioned-hover: hsla(38, calc(var(--saturation-factor, 1) * 96%), 54%, 0.078);
 	--background-message-hover: #04040512;
