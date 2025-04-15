@@ -304,7 +304,7 @@ div[class*='subtitleContainer_'] div[class*='children__']{
   margin-left: 10px;
 }
 
-[class^="listItem_650eb"]:has([class^="pill__1f388 wrapper__58105"]) {
+[class^="listItem_650eb"]:has([class^="pill__1f388"]) {
   margin-left: 0px !important;
 }
 
