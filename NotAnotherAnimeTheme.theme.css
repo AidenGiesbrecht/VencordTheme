@@ -1334,6 +1334,7 @@ html {
 }
 :root {
 --main-theme-color: #43b581;
+--bg-base-tertiary: #000000b7;
 --theme-transparency: #000000b7;
 --theme-background-image: url('https://i.imgur.com/oUlVA6e.png');
 --home-icon-image: url('https://i.imgur.com/70lI8Z9.png');
