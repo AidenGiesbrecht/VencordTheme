@@ -1130,6 +1130,10 @@ html {
   border: 0;
 }
 
+.iconBadge__650eb {
+  background-color: #0c0c159c !important;
+}
+
 .container__29699 {
   background-color: rgba(255, 255, 255, 0.1);
   backdrop-filter: blur(5px);
