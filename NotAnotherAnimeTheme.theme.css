@@ -294,7 +294,6 @@ div[class*='subtitleContainer_'] div[class*='children__']{
 
 .wrapper_ef3116 .scroller_ef3116 {
   display: flex;
-  flex-flow: column wrap;
   padding-left: 0;
   align-content: flex-start;
 }
@@ -375,7 +374,11 @@ div[class*='subtitleContainer_'] div[class*='children__']{
 }
 
 .tutorialContainer__650eb {
-  right: -10px !important;
+  right: 0px !important;
+}
+
+.folderEndWrapper_d144f8 {
+  height: 12px;
 }
 
 .pill-1m5BUr {
@@ -385,7 +388,6 @@ div[class*='subtitleContainer_'] div[class*='children__']{
 .wrapper_ef3116 .scroller_ef3116 > div {
   display: flex;
   flex-direction: column;
-  flex-flow: row wrap;
 }
 
 .tutorialContainer-2sGCg9 {
@@ -1022,7 +1024,7 @@ html {
 }
 
 .expandedFolderBackground__48112 {
-  left: -3px !important;
+  left: -4px !important;
   width: 56px !important;
 }
 
