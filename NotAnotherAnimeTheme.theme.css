@@ -76,17 +76,17 @@ div[class*='subtitleContainer_'] div[class*='children__']{
 }
 
 .bg__960e4 {
-  background-color: var(--theme-transparency);
+  background-color: var(--theme-transparency) !important;
 }
 
 .wrapper_ef3116,
 .scroller_ef3116 {
-  background-color: transparent;
+  background-color: transparent !important;
 }
 
 /* FRIENDS SIDEBAR */
 .sidebar_c48ade {
-  background: transparent;
+  background: transparent !important;
 }
 
 .privateChannels__35e86 {
