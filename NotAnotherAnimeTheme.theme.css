@@ -882,7 +882,7 @@ div[class*='subtitleContainer_'] div[class*='children__']{
 
 /* Friend activity */
 .container__7d20c {
-  background-color: transparent;
+  background-color: transparent !important;
 }
 
 .section__00943 {
