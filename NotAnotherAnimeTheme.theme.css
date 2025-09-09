@@ -44,6 +44,10 @@ div[class*='subtitleContainer_'] div[class*='children__']{
     background-color: transparent !important;
 }
 
+.nowPlayingColumn__133bf .container__7d20c, .profileCard__5d7c9, .prompt__5d7c9 {
+    background-color: transparent !important;
+}
+
 .align-chat-input .attachWrapper__0923f {
     padding: 0px !important;
 }
