@@ -38,6 +38,7 @@ div[class*='subtitleContainer_'] div[class*='children__']{
 
 .formWithLoadedChatInput_f75fb0 {
     margin-top: 0px !important;
+    margin-bottom: -16px !important;
 }
 
 .chatGradient__36d07 {
@@ -45,7 +46,7 @@ div[class*='subtitleContainer_'] div[class*='children__']{
 }
 
 .scrollerSpacer__36d07 {
-    height: 0px !important;
+    height: 8px !important;
 }
 
 .align-chat-input .attachButtonInner__0923f {
