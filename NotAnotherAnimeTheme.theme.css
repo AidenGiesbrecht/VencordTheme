@@ -36,6 +36,14 @@ div[class*='subtitleContainer_'] div[class*='children__']{
   background-color: transparent;
 }
 
+.formWithLoadedChatInput_f75fb0 {
+    margin-top: 0px !important;
+}
+
+.chatGradient__36d07 {
+    height: 0px !important;    
+}
+
 .bg__960e4 {
   background-color: var(--theme-transparency);
 }
