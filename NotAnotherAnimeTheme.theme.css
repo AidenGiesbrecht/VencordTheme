@@ -44,6 +44,9 @@ div[class*='subtitleContainer_'] div[class*='children__']{
     height: 0px !important;    
 }
 
+.scrollerSpacer__36d07 {
+    height: 0px !important;
+}
 .bg__960e4 {
   background-color: var(--theme-transparency);
 }
