@@ -22,7 +22,9 @@ button[aria-label="Send a gift"] {
 .privateChannels_e6b769 {
     background: none !important;
 }
-
+.lookFilled__201d5.colorPrimary__201d5 {
+    background-color: none !important;
+}
 div[class*='topic__'],
 div[class*='nicknames__'],
 div[class*='subtitleContainer_'] div[class*='children__']{
