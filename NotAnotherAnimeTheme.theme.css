@@ -118,11 +118,11 @@ div[class*='subtitleContainer_'] div[class*='children__']{
 }
 
 /* FRIENDS SIDEBAR */
-.sidebar_c48ade {
+.sidebar__5e434 {
   background: transparent !important;
 }
 
-.privateChannels__35e86 {
+.privateChannels_e6b769 {
   background-color: transparent;
 }
 
@@ -130,12 +130,12 @@ div[class*='subtitleContainer_'] div[class*='children__']{
   background-color: transparent;
 }
 
-.searchBar__35e86 .searchBarComponent__35e86 {
+.searchBar_e6b769 .searchBarComponent__35e86 {
   background-color: transparent;
 }
 
 /* USER INFO */
-.panels_c48ade {
+.panels__5e434 {
   background-color: transparent;
 }
 
@@ -526,7 +526,7 @@ div[class*='subtitleContainer_'] div[class*='children__']{
 /* Channel category color */
 .wrapper__29444:not(.muted__29444)
   .name__29444.container__13cf1
-  .overflow__82b15 {
+  .overflow_b0dfc2 {
   color: var(--main-theme-color);
 }
 
@@ -543,7 +543,7 @@ div[class*='subtitleContainer_'] div[class*='children__']{
 .wrapper__29444:hover .icon__29444,
 .wrapper__29444:hover
   .name__29444.container__13cf1.text__13cf1
-  .overflow__82b15 {
+  .overflow_b0dfc2 {
   color: var(--category-hover-color);
 }
 
@@ -666,12 +666,12 @@ div[class*='subtitleContainer_'] div[class*='children__']{
 }
 
 /* Upload Dialog */
-.theme-dark .uploadModal_dbca3c {
+.theme-dark .uploadModal_b78547 {
   background-color: rgba(20, 20, 20, 0.6);
   box-shadow: none;
 }
 
-.theme-dark .footer_dbca3c {
+.theme-dark .footer_b78547 {
   background-color: rgba(20, 20, 20, 0.6);
   box-shadow: none;
 }
@@ -797,7 +797,7 @@ div[class*='subtitleContainer_'] div[class*='children__']{
   background-color: var(--emoji-menu-background-color);
 }
 
-.wrapper__4e6ce {
+.wrapper__0d1ef {
   background-color: var(--emoji-menu-sider-background-color);
 }
 
@@ -893,11 +893,11 @@ div[class*='subtitleContainer_'] div[class*='children__']{
 }
 
 /* Folder colors */
-.expandedFolderBackground__48112 {
+.folderGroupBackground__48112 {
   background-color: var(--expanded-folder-background-color);
 }
 
-.folder__48112 {
+.hiddenVisually_b18fe2 {
   background-color: var(--folder-background-color);
 }
 
@@ -1056,13 +1056,13 @@ html {
   width: initial !important;
 }
 
-.expandedFolderBackground__48112 {
+.folderGroupBackground__48112 {
   left: -4px !important;
   width: 56px !important;
 }
 
-.folder__48112,
-.folderIconWrapper__48112 {
+.hiddenVisually_b18fe2,
+.folderPreviewWrapper__48112 {
   border-radius: 100%;
 }
 
@@ -1074,7 +1074,7 @@ html {
   background-color: transparent;
 }
 
-.wrapper__0d1ef {
+.wrapper_cdf8a9 {
   background-color: transparent;
 }
 
@@ -1238,7 +1238,7 @@ html {
   background-color: transparent;
 }
 
-.wrapper_d852db {
+.wrapper_cdf8a9 {
   background: transparent;
 }
 
