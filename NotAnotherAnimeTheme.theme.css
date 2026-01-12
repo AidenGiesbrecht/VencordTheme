@@ -28,6 +28,9 @@ button[aria-label="Send a gift"] {
 ._51fd70792ee2e563-appMount {
     color: transparent !important;
 }
+._133bf5eea8e33a34-tabBody {
+    background-color: transparent !important;
+}
 div[class*='topic__'],
 div[class*='nicknames__'],
 div[class*='subtitleContainer_'] div[class*='children__']{
